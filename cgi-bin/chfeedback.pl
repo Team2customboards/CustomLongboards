@@ -8,6 +8,22 @@ $formurl = "http://lmason09.com/feedback.html" ;
 $errorurl = "http://error.html" ;
 $thankyouurl = "http://thankyou.html" ;
 
+#COMMENT OUT THE SECTION ABOVE AND THEN UNCOMMENT THE BELOW TO MAKE THIS WORK ON EACH OF OUR SITES
+#$mailprog = "/usr/lib/sendmail" ;
+
+#UPDATE THIS TO YOUR OWN EMAIL ADDRESS
+#$mailto = 'mail@lmason09.com' ;
+#$subject = "Feedback Form" ;
+
+#THIS POINTS TO THE FEEDBACK.HTML ON THE TEAM2 SITE
+#$formurl = "../feedback.html" ;
+
+#THIS POINTS TO THE ERROR.HTML ON THE TEAM2 SITE
+#$errorurl = "../error.html" ;
+
+#THIS POINTS TO THE THANKYOU.HTML ON THE TEAM2 SITE
+#$thankyouurl = "../thankyou.html" ;
+
 # END OF USER CONFIGURATION SECTION
 
 #  functions 
